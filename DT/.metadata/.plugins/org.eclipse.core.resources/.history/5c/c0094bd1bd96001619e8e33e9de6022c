@@ -1,0 +1,21 @@
+package ecommerce.backend.model;
+
+@Entity
+@Table
+public class RegistrationModel {
+
+	@Id
+	@Column(name = "RegId")
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	public int RegId;
+	@NotEmpty 
+	String RegName;
+	@NotEmpty @Email
+	String RegEmail;
+	@NotEmpty
+	String RegPwd;
+	@NotEmpty
+	String RegGen;
+	@NotEmpty
+	String RegAddress;
+}

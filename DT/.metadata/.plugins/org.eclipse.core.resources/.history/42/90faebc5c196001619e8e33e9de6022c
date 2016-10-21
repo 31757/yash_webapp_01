@@ -1,0 +1,12 @@
+package ecommerce.backend.dao;
+
+import java.util.List;
+import java.util.Locale.Category;
+
+public interface CategoryDao {
+	public List<Category> getAll();
+	public void insert(Category p);
+	public void update(Category p);
+	public Category getById(int id);
+	public void delete(int id);
+}

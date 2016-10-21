@@ -1,0 +1,12 @@
+package ecommerce.yash_webapp_01.configuration;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
+
+@Configuration
+@EnableTransactionManagement
+@ComponentScan({ "ecommerce.yash_webapp_01" })
+public class HibernateConfiguration {
+
+}

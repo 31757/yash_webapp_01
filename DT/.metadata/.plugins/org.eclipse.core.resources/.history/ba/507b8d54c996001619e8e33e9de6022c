@@ -1,0 +1,13 @@
+package ecommerce.backend.dao;
+
+import java.util.List;
+
+import ecommerce.backend.model.RegistrationModel;
+
+public interface RegistrationDao {
+	public List<RegistrationModel> getAll();
+	public void insert(RegistrationModel p);
+	public void update(RegistrationModel p);
+	public RegistrationModel getById(int id);
+	public void delete(int id);
+}

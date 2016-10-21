@@ -1,0 +1,42 @@
+package ecommerce.backend.dao;
+
+import java.util.List;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import ecommerce.backend.model.RegistrationModel;
+
+@Repository
+@Transactional
+public class RegistrationDaoImpl implements RegistrationDao {
+@Autowired
+private SessionFactory sessionFactory;
+	public List<RegistrationModel> getAll() {
+		// TODO Auto-generated method stub
+		return sessionFactory.getCurrentSession().createQuery("FROM Registration").list();
+	}
+
+	public void insert(RegistrationModel p) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public void update(RegistrationModel p) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public RegistrationModel getById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void delete(int id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

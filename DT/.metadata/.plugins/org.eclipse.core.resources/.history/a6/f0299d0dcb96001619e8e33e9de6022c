@@ -1,0 +1,13 @@
+package ecommerce.frontend.dao;
+
+import java.util.List;
+
+import ecommerce.frontend.model.CategoryModel;
+
+public interface CategoryDao {
+	public List<CategoryModel> getAll();
+	public void insert(CategoryModel p);
+	public void update(CategoryModel p);
+	public CategoryModel getById(int id);
+	public void delete(int id);
+}

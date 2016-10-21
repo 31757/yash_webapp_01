@@ -1,0 +1,33 @@
+package ecommerce.yash_webapp_01.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.hibernate.validator.constraints.NotEmpty;
+@Entity
+@Table
+public class SupplierModel {
+	@Id
+	@Column(name="SupId")
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	public
+	int SupId;
+	@NotEmpty
+	String SupName;
+	public int getCatId() {
+		return SupId;
+	}
+	public void setCatId(int supId) {
+		SupId = supId;
+	}
+	public String getSupName() {
+		return SupName;
+	}
+	public void setSupName(String supName) {
+		SupName = supName;
+	}
+}

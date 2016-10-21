@@ -1,0 +1,8 @@
+package ecommerce.backend.hibernate;
+
+@Configuration
+@EnableTransactionManagement
+@ComponentScan({ "ecommerce.backend" })
+public class HibernateConfiguration {
+
+}
