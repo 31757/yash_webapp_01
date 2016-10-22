@@ -1,0 +1,70 @@
+package ecommerce.yash_webapp_01.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+@Entity
+@Table
+public class RegistrationModel {
+
+	@Id
+	@Column(name="regid")
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	public int regid;
+	@Column
+	public String regname;
+	@Column
+	public String regemail;
+	@Column
+	public String rwgpwd;
+	@Column
+	public String reggen;
+	@Column
+	public String regaddress;
+	public int getRegid() {
+		return regid;
+	}
+	public void setRegid(int regid) {
+		this.regid = regid;
+	}
+	public String getRegname() {
+		return regname;
+	}
+	public void setRegname(String regname) {
+		this.regname = regname;
+	}
+	public String getRegemail() {
+		return regemail;
+	}
+	public void setRegemail(String regemail) {
+		this.regemail = regemail;
+	}
+	public String getRwgpwd() {
+		return rwgpwd;
+	}
+	public void setRwgpwd(String rwgpwd) {
+		this.rwgpwd = rwgpwd;
+	}
+	public String getReggen() {
+		return reggen;
+	}
+	public void setReggen(String reggen) {
+		this.reggen = reggen;
+	}
+	public String getRegaddress() {
+		return regaddress;
+	}
+	public void setRegaddress(String regaddress) {
+		this.regaddress = regaddress;
+	}
+	
+
+
+	
+
+	
+}
+

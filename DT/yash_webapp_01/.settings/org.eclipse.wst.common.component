@@ -4,6 +4,6 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="java-output-path" value="/yash_webapp_01/target/classes"/>
-        <property name="context-root" value="frontend"/>
+        <property name="context-root" value="yash_webapp_01"/>
     </wb-module>
 </project-modules>

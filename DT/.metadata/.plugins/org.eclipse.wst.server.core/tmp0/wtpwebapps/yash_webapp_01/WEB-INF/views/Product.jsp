@@ -71,7 +71,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src=".webapp/WEB-INF/resources/images/Koala.jpg"  width="500" height="500">
+                    <img src="./resources/images/Koala.jpg"  width="500" height="500">
                     <div class="caption">
                         <h3>Laptops</h3>
                         <p>A grand variety of laptops at each and every price variations for everyone to buy</p>
@@ -84,7 +84,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>TV</h3>
                         <p>A different collection of TV and Hometheatres for the evrey types of people at best price</p> 
@@ -97,7 +97,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>Mobiles</h3>
                         <p>Hot and Cool phones in different styles for the everyone</p>
@@ -110,7 +110,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>Home Appliance</h3>
                         <p>A range of home needs in electronics at a single and a super collection</p>
@@ -140,7 +140,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src=".webapp/WEB-INF/resources/images/Koala.jpg"  width="500" height="500">
+                    <img src="./resources/images/Koala.jpg"  width="500" height="500">
                     <div class="caption">
                         <h3>Laptops</h3>
                         <p>A grand variety of laptops at each and every price variations for everyone to buy</p>
@@ -153,7 +153,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>TV</h3>
                         <p>A different collection of TV and Hometheatres for the evrey types of people at best price</p> 
@@ -166,7 +166,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>Mobiles</h3>
                         <p>Hot and Cool phones in different styles for the everyone</p>
@@ -179,7 +179,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>Home Appliance</h3>
                         <p>A range of home needs in electronics at a single and a super collection</p>
@@ -210,7 +210,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src=".webapp/WEB-INF/resources/images/Koala.jpg"  width="500" height="500">
+                    <img src="./resources/images/Koala.jpg"  width="500" height="500">
                     <div class="caption">
                         <h3>Laptops</h3>
                         <p>A grand variety of laptops at each and every price variations for everyone to buy</p>
@@ -223,7 +223,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>TV</h3>
                         <p>A different collection of TV and Hometheatres for the evrey types of people at best price</p> 
@@ -236,7 +236,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>Mobiles</h3>
                         <p>Hot and Cool phones in different styles for the everyone</p>
@@ -249,7 +249,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>Home Appliance</h3>
                         <p>A range of home needs in electronics at a single and a super collection</p>

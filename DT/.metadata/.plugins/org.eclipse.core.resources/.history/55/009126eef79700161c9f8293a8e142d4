@@ -1,0 +1,35 @@
+package ecommerce.yash_webapp_01.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.hibernate.validator.constraints.NotEmpty;
+
+@Entity
+@Table
+public class ProductModel {
+	@Id
+	@Column(name="prodid")
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	public
+	int prodid;
+	@NotEmpty
+	String prodbrand;
+	@NotEmpty
+	String prodmodel;
+	@NotEmpty
+	String prodos;
+	@NotEmpty
+	String prodversion;
+	@NotEmpty
+	String prodprice;
+	
+@Override
+public String toString(){
+	return "ProductModel [Id="+Id+" , Brand="+Brand+", Model="+Model+", Os="+Os+" , Version="+Version+", Price="+Price+"]";
+}
+}

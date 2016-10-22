@@ -13,58 +13,61 @@ import org.hibernate.validator.constraints.NotEmpty;
 @Table
 public class ProductModel {
 	@Id
-	@Column(name="Id")
+	@Column(name="prodid")
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	public
-	int Id;
+	int prodid;
 	@NotEmpty
-	String Brand;
+	String prodbrand;
 	@NotEmpty
-	String Model;
+	String prodmodel;
 	@NotEmpty
-	String Os;
+	String prodos;
 	@NotEmpty
-	String Version;
+	String prodversion;
 	@NotEmpty
-	String Price;
-	public int getId() {
-		return Id;
+	String prodprice;
+	public int getProdid() {
+		return prodid;
 	}
-	public void setId(int id) {
-		Id = id;
+	public void setProdid(int prodid) {
+		this.prodid = prodid;
 	}
-	public String getBrand() {
-		return Brand;
+	public String getProdbrand() {
+		return prodbrand;
 	}
-	public void setBrand(String brand) {
-		Brand = brand;
+	public void setProdbrand(String prodbrand) {
+		this.prodbrand = prodbrand;
 	}
-	public String getModel() {
-		return Model;
+	public String getProdmodel() {
+		return prodmodel;
 	}
-	public void setModel(String model) {
-		Model = model;
+	public void setProdmodel(String prodmodel) {
+		this.prodmodel = prodmodel;
 	}
-	public String getOs() {
-		return Os;
+	public String getProdos() {
+		return prodos;
 	}
-	public void setOs(String os) {
-		Os = os;
+	public void setProdos(String prodos) {
+		this.prodos = prodos;
 	}
-	public String getVersion() {
-		return Version;
+	public String getProdversion() {
+		return prodversion;
 	}
-	public void setVersion(String version) {
-		Version = version;
+	public void setProdversion(String prodversion) {
+		this.prodversion = prodversion;
 	}
-	public String getPrice() {
-		return Price;
+	public String getProdprice() {
+		return prodprice;
 	}
-	public void setPrice(String price) {
-		Price = price;
+	public void setProdprice(String prodprice) {
+		this.prodprice = prodprice;
 	}
-@Override
-public String toString(){
-	return "ProductModel [Id="+Id+" , Brand="+Brand+", Model="+Model+", Os="+Os+" , Version="+Version+", Price="+Price+"]";
+	
+	@Override
+	public String toString(){
+		return "ProductModel [Id="+prodid+" , Brand="+prodbrand+", Model="+prodmodel+", Os="+prodos+" , Version="+prodversion+", Price="+prodprice+"]";
+	
+	}
 }
-}
+

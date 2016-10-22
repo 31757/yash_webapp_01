@@ -41,7 +41,7 @@ public class AdminController {
 	@RequestMapping(value = "/admin/add", method = RequestMethod.POST)
 	public String insert(@Valid @ModelAttribute("product") ProductModel p1) {
 
-		if (p1.getId() == 0) {
+		if (p1.getProdid() == 0) {
 			// new product, add it
 			this.p.insert(p1);
 		} else {

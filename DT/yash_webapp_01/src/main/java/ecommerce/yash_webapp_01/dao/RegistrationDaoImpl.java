@@ -2,48 +2,43 @@ package ecommerce.yash_webapp_01.dao;
 
 import java.util.List;
 
+import javax.servlet.Registration;
+
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Repository;
-import org.springframework.transaction.annotation.Transactional;
 
-import ecommerce.yash_webapp_01.model.RegistrationModel;
+import ecommerce.yash_webapp_01.model.*;
 
-@Repository
-@Transactional
+
 public class RegistrationDaoImpl implements RegistrationDao {
 	@Autowired
 	private SessionFactory sessionFactory;
-
-	@SuppressWarnings("unchecked")
-	@Override
-	public List<RegistrationModel> getAll() {
+	public List<Registration> getAll() {
 		// TODO Auto-generated method stub
 		return sessionFactory.getCurrentSession().createQuery("FROM Registration").list();
 	}
 
-	@Override
 	public void insert(RegistrationModel p) {
 		// TODO Auto-generated method stub
 		sessionFactory.getCurrentSession().persist(p);
 	}
 
-	@Override
-	public void update(RegistrationModel p) {
+	public void update(Registration p) {
 		// TODO Auto-generated method stub
 		sessionFactory.getCurrentSession().update(p);
 	}
 
-	@Override
-	public RegistrationModel getById(int id) {
+	public Registration getById(int id) {
 		// TODO Auto-generated method stub
-		return sessionFactory.getCurrentSession().get(RegistrationModel.class, id);
+		return sessionFactory.getCurrentSession().get(Registration.class,id);
 	}
 
-	@Override
 	public void delete(int id) {
 		// TODO Auto-generated method stub
 		sessionFactory.getCurrentSession().delete(getById(id));
 	}
+
+	
+	
 
 }

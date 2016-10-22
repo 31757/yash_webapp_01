@@ -2,6 +2,7 @@ package ecommerce.yash_webapp_01.dao;
 
 import java.util.List;
 
+
 import ecommerce.yash_webapp_01.model.SupplierModel;
 
 public interface SupplierDao {

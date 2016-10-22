@@ -52,8 +52,6 @@ http://www.springframework.org/schema/tx/spring-tx.xsd">
 
 	<!-- dto related beans -->
 	<bean id="ProductDao" class="ecommerce.yash_webapp_01.dao.ProductDaoImpl" />
-	<bean id="RegistrationDao" class="ecommerce.yash_webapp_01.dao.RegistrationDaoImpl" />
-	<bean id="CategoryDao" class="ecommerce.yash_webapp_01.dao.CategoryDaoImpl" />
-	<bean id="SupplierDao" class="ecommerce.yash_webapp_01.dao.SupplierDaoImpl" />
+	
 	
 </beans>

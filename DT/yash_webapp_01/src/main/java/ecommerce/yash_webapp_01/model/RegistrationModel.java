@@ -6,63 +6,66 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
-import org.hibernate.validator.constraints.Email;
-import org.hibernate.validator.constraints.NotEmpty;
-
 @Entity
 @Table
 public class RegistrationModel {
 
 	@Id
-	@Column(name = "RegId")
+	@Column(name="regid")
 	@GeneratedValue(strategy = GenerationType.AUTO)
-	public int RegId;
-	@NotEmpty 
-	String RegName;
-	@NotEmpty @Email
-	String RegEmail;
-	@NotEmpty
-	String RegPwd;
-	@NotEmpty
-	String RegGen;
-	@NotEmpty
-	String RegAddress;
-	public int getRegId() {
-		return RegId;
+	public int regid;
+	@Column
+	public String regname;
+	@Column
+	public String regemail;
+	@Column
+	public String rwgpwd;
+	@Column
+	public String reggen;
+	@Column
+	public String regaddress;
+	
+	public int getRegid() {
+		return regid;
 	}
-	public void setRegId(int regId) {
-		RegId = regId;
+	public void setRegid(int regid) {
+		this.regid = regid;
 	}
-	public String getRegName() {
-		return RegName;
+	public String getRegname() {
+		return regname;
 	}
-	public void setRegName(String regName) {
-		RegName = regName;
+	public void setRegname(String regname) {
+		this.regname = regname;
 	}
-	public String getRegEmail() {
-		return RegEmail;
+	public String getRegemail() {
+		return regemail;
 	}
-	public void setRegEmail(String regEmail) {
-		RegEmail = regEmail;
+	public void setRegemail(String regemail) {
+		this.regemail = regemail;
 	}
-	public String getRegPwd() {
-		return RegPwd;
+	public String getRwgpwd() {
+		return rwgpwd;
 	}
-	public void setRegPwd(String regPwd) {
-		RegPwd = regPwd;
+	public void setRwgpwd(String rwgpwd) {
+		this.rwgpwd = rwgpwd;
 	}
-	public String getRegGen() {
-		return RegGen;
+	public String getReggen() {
+		return reggen;
 	}
-	public void setRegGen(String regGen) {
-		RegGen = regGen;
+	public void setReggen(String reggen) {
+		this.reggen = reggen;
 	}
-	public String getRegAddress() {
-		return RegAddress;
+	public String getRegaddress() {
+		return regaddress;
 	}
-	public void setRegAddress(String regAddress) {
-		RegAddress = regAddress;
+	public void setRegaddress(String regaddress) {
+		this.regaddress = regaddress;
 	}
 	
+
+
+	
+
+	
 }
+

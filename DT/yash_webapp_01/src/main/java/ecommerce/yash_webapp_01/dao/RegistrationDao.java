@@ -2,16 +2,20 @@ package ecommerce.yash_webapp_01.dao;
 
 import java.util.List;
 
-import ecommerce.yash_webapp_01.model.RegistrationModel;
+import javax.servlet.Registration;
+
+import ecommerce.yash_webapp_01.model.*;
+
+
+
 
 public interface RegistrationDao {
-	public List<RegistrationModel> getAll();
-
-	public void insert(RegistrationModel p);
-
-	public void update(RegistrationModel p);
-
-	public RegistrationModel getById(int id);
-
+	
+	
+	public List<Registration> getAll();
+	public void insert(RegistrationModel c);
+	public void update(Registration p);
+	public Registration getById(int id);
 	public void delete(int id);
+	 
 }

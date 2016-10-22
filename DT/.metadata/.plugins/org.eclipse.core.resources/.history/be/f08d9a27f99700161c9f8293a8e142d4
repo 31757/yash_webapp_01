@@ -1,0 +1,5 @@
+package ecommerce.yash_webapp_01.dao;
+
+public class SupplierDaoImpl implements SupplierDao {
+
+}

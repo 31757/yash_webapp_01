@@ -3720,3 +3720,672 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag nam
 2016-10-21 19:54:58,929 [Worker-785] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
 2016-10-21 19:54:58,930 [Worker-785] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-10-21 19:54:58,940 [Worker-785] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 22:59:47,363 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 22:59:47,388 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 22:59:47,392 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 22:59:47,405 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:00:09,748 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:00:09,791 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:00:09,802 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:00:09,893 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:00:38,263 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:00:38,288 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:00:38,291 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:00:38,321 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:00:54,529 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:00:54,543 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:00:54,546 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:00:54,558 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:09:58,271 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:10:04,207 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:frontend:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:10:07,840 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:10:07,841 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:10:10,021 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:10:10,028 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2016-10-21 23:10:15,435 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:10:15,470 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:10:15,483 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:10:15,573 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:10:15,576 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:10:15,577 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:10:15,594 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:16:49,785 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:16:51,262 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:frontend:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:16:54,225 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:16:54,226 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:16:55,795 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:16:55,801 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-10-21 23:16:58,794 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:16:58,814 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:16:58,817 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:16:58,835 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:16:58,836 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:16:58,836 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:16:58,844 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:18:32,939 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:18:34,313 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:frontend:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:18:36,986 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:18:36,987 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:18:38,287 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:18:38,297 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-10-21 23:18:40,988 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:18:44,574 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:18:44,586 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:18:44,596 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:18:44,597 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:18:44,597 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:18:44,606 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:19:17,923 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-10-21 23:19:18,337 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\DTProject\DT\yash_webapp_01
+2016-10-21 23:19:18,338 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-10-21 23:19:51,673 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:19:51,699 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:19:51,710 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:19:51,720 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:19:52,799 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:19:52,815 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:19:52,820 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:19:52,830 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:20:01,546 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:20:01,555 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:20:01,557 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:20:01,566 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:20:16,340 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:20:17,538 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:frontend:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:20:20,640 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:20:20,641 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:20:21,874 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:20:21,882 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-10-21 23:20:24,142 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:20:24,169 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:20:24,176 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:20:24,186 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:20:24,187 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:20:24,187 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:20:24,207 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:21:35,540 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:21:35,684 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:21:35,688 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:21:35,704 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:25:23,658 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:25:23,670 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:25:23,684 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:25:23,696 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:25:29,231 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:25:29,242 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:25:29,257 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:25:29,271 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:25:32,812 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:25:32,828 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:25:32,833 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:25:32,845 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:25:35,266 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:25:35,279 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:25:35,281 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:25:35,292 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:25:57,055 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:25:57,066 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:25:57,078 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:25:57,094 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:26:02,214 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:26:04,138 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:frontend:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:26:07,868 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:26:07,869 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:26:10,215 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:26:10,229 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2016-10-21 23:26:15,809 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:26:15,821 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:26:15,829 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:26:15,845 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:26:15,846 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:26:15,847 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:26:15,879 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:27:20,803 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:27:20,819 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:27:20,826 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:27:20,843 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:27:22,197 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:27:22,211 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:27:22,217 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:27:22,227 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:27:23,341 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:27:23,357 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:27:23,358 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:27:23,379 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:30:11,344 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:30:11,355 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:30:11,359 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:30:11,369 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:31:21,004 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:31:22,299 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:frontend:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:31:24,970 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:31:24,971 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:31:26,719 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:31:26,727 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-10-21 23:31:30,423 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:31:30,437 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:31:30,440 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:31:30,453 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:31:30,454 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:31:30,476 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:31:30,508 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:32:42,651 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:32:42,664 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:32:42,669 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:32:42,680 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:32:46,657 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:32:47,888 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:frontend:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:32:50,996 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:32:50,996 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:32:52,680 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:32:52,687 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-10-21 23:32:55,697 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:32:55,709 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:32:55,713 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:32:55,724 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:32:55,725 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:32:55,725 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:32:55,732 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:34:52,191 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:34:52,201 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:34:52,203 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:34:52,220 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:35:04,849 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:35:04,913 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:35:04,929 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:35:04,950 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:35:11,679 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:35:11,689 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:35:11,691 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:35:11,699 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:35:18,917 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:35:20,274 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:frontend:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:35:23,187 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:35:23,187 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:35:24,484 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:35:24,490 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-10-21 23:35:27,474 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:35:27,501 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:35:27,504 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:35:27,528 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:35:27,529 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:35:27,529 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:35:27,574 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:36:22,416 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:36:23,696 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:frontend:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:36:26,723 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:36:26,723 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:36:28,401 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:36:28,409 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-10-21 23:36:33,004 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:36:33,016 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:36:33,019 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:36:33,029 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:36:33,127 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:36:33,128 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:36:33,139 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:39:38,076 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:39:41,019 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:39:41,040 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:39:41,047 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:39:41,055 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:39:41,059 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:39:41,061 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:39:41,073 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:39:56,121 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:39:58,826 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:39:58,834 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:39:58,837 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:39:58,846 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:39:58,847 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:39:58,847 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:39:58,853 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:41:39,328 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:41:39,346 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:41:39,351 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:41:39,368 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:41:43,879 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:41:45,081 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:41:47,954 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:41:47,956 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:41:49,314 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:41:49,321 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-10-21 23:41:52,619 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:41:52,659 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:41:52,662 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:41:52,704 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:41:52,706 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:41:52,706 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:41:52,714 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:43:22,777 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:43:22,790 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:43:22,791 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:43:22,802 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:44:28,910 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:44:28,938 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:44:28,940 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:44:28,952 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:44:33,449 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:44:34,529 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:44:37,295 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:44:37,296 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:44:38,689 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:44:38,695 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-10-21 23:44:45,052 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:44:45,075 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:44:45,077 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:44:45,092 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:44:45,093 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:44:45,093 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:44:45,128 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:46:00,685 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:46:00,695 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:46:00,697 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:46:00,733 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:46:04,799 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:46:05,927 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:46:08,894 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:46:08,895 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:46:10,462 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:46:10,468 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-10-21 23:46:16,104 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:46:16,113 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:46:16,115 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:46:16,186 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:46:16,186 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:46:16,186 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:46:16,192 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:48:16,406 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:48:16,422 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:48:16,455 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:48:16,465 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:48:25,906 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:48:25,915 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:48:25,916 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:48:25,925 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:48:44,912 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:48:45,997 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:48:48,917 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:48:48,918 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:48:51,160 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:48:51,166 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-10-21 23:48:54,915 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:48:54,991 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:48:54,996 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:48:55,005 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:48:55,005 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:48:55,005 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:48:55,014 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:50:46,727 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:50:46,736 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:50:46,738 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:50:46,747 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:50:49,169 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-21 23:50:50,575 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-21 23:50:54,503 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-21 23:50:54,503 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-21 23:50:57,037 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-21 23:50:57,053 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2016-10-21 23:51:00,562 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:51:00,582 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-21 23:51:00,584 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-21 23:51:00,592 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-21 23:51:00,592 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-21 23:51:00,593 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-21 23:51:00,600 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 05:54:39,778 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 05:54:39,803 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 05:54:39,806 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 05:54:39,815 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 05:55:32,453 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 05:55:32,467 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 05:55:32,480 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 05:55:32,503 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 05:56:56,612 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 05:56:56,750 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 05:56:56,752 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 05:56:56,805 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:01:30,708 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:01:30,732 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:01:30,736 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:01:30,745 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:01:34,749 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-22 06:01:48,603 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-22 06:01:54,798 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-22 06:01:54,800 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-22 06:01:58,479 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-22 06:01:58,498 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 23 sec
+2016-10-22 06:02:06,717 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:02:06,753 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:02:06,762 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:02:06,801 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:02:06,801 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-22 06:02:06,804 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-22 06:02:06,821 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:04:10,168 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:04:10,178 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:04:10,195 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:04:10,206 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:04:45,675 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:04:45,685 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:04:45,718 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:04:45,778 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:05:17,663 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:05:17,811 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:05:17,814 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:05:18,026 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:06:07,516 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-22 06:06:08,993 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-22 06:06:12,437 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-22 06:06:12,438 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-22 06:06:14,313 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-22 06:06:14,330 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-10-22 06:06:17,906 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:06:19,164 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:06:19,168 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:06:19,181 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:06:19,182 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-22 06:06:19,182 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-22 06:06:19,190 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:08:44,343 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:08:44,358 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:08:44,360 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:08:44,368 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:10:04,121 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:10:04,132 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:10:04,134 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:10:04,153 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:14:37,294 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:14:37,314 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:14:37,323 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:14:37,335 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:14:52,180 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:14:52,188 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:14:52,195 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:14:52,240 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:15:49,183 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:15:49,194 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:15:49,196 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:15:49,210 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:15:53,252 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:15:53,454 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:15:53,456 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:15:53,465 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:16:14,711 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:16:14,766 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:16:14,769 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:16:14,790 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:16:35,646 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:16:35,701 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:16:35,703 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:16:35,715 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:17:22,382 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:17:22,390 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:17:22,392 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:17:22,400 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:18:04,420 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:18:04,552 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:18:04,554 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:18:04,620 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:18:18,164 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-22 06:18:19,657 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-22 06:18:22,836 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-22 06:18:22,838 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-22 06:18:24,715 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-22 06:18:24,724 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-10-22 06:18:29,535 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:18:29,547 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:18:29,553 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:18:29,564 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:18:29,565 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-22 06:18:29,565 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-22 06:18:29,577 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:30:48,867 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:30:48,968 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:30:48,970 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:30:48,979 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:30:55,683 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:30:55,699 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:30:55,701 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:30:55,711 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:34:16,037 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:34:16,078 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:34:16,083 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:34:16,091 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:35:23,434 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:35:23,443 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:35:23,448 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:35:23,455 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:35:37,399 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-22 06:35:43,713 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-22 06:35:54,199 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-22 06:35:54,199 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-22 06:35:56,481 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-22 06:35:56,499 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 19 sec
+2016-10-22 06:36:01,977 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:36:01,989 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:36:01,992 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:36:02,041 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:36:02,042 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-22 06:36:02,042 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-22 06:36:02,172 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:39:16,318 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:39:16,476 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:39:16,480 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:39:16,490 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:39:24,913 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:39:25,007 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:39:25,008 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:39:25,018 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:39:28,746 [Worker-51] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-22 06:39:35,325 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-22 06:39:46,411 [Worker-51] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-22 06:39:46,412 [Worker-51] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-22 06:39:49,365 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-22 06:39:49,374 [Worker-51] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 20 sec
+2016-10-22 06:40:02,949 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:40:02,970 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:40:02,974 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:40:02,983 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:40:02,984 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-22 06:40:02,984 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-22 06:40:03,026 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:40:44,701 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:40:44,740 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:40:44,742 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:40:44,765 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:42:09,914 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:42:09,923 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:42:09,984 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:42:09,993 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:42:19,351 [Worker-80] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-22 06:42:20,825 [Worker-80] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-22 06:42:24,008 [Worker-80] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-22 06:42:24,008 [Worker-80] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-22 06:42:25,206 [Worker-80] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-22 06:42:25,222 [Worker-80] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-10-22 06:42:28,820 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:42:28,989 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:42:28,992 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:42:29,002 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:42:29,002 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-22 06:42:29,002 [Worker-78] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-22 06:42:29,011 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:43:25,848 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:43:25,857 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:43:25,859 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:43:25,913 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:44:14,317 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:44:14,328 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:44:14,350 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:44:14,359 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:44:17,121 [Worker-71] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-22 06:44:18,749 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-22 06:44:22,221 [Worker-71] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-22 06:44:22,222 [Worker-71] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-22 06:44:23,918 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-22 06:44:23,925 [Worker-71] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-10-22 06:44:31,143 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:44:31,255 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:44:31,270 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:44:31,327 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:44:31,328 [Worker-77] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-22 06:44:31,328 [Worker-77] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-22 06:44:31,340 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:47:08,604 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:47:08,613 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:47:08,614 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:47:08,623 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:50:32,677 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:50:32,689 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:50:32,690 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:50:32,709 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:51:23,181 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:51:23,586 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:51:23,587 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:51:23,612 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:51:42,442 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:51:42,449 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:51:42,451 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:51:42,459 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:51:55,457 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:51:55,465 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:51:55,468 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:51:55,477 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:52:12,299 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:52:12,311 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:52:12,313 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:52:12,325 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:52:49,871 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:52:49,886 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:52:49,890 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:52:49,899 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:53:10,162 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:53:10,175 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:53:10,176 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:53:10,185 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:53:53,091 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:53:53,100 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:53:53,103 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:53:53,124 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:54:41,173 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:54:41,184 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:54:41,186 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:54:41,196 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:54:52,379 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:54:52,396 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:54:52,398 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:54:52,407 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:55:12,040 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:55:12,049 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:55:12,050 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:55:12,058 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:55:19,211 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:55:19,219 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:55:19,221 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:55:19,233 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:56:03,895 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:56:03,905 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:56:03,907 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:56:03,918 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:57:19,241 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:57:19,250 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:57:19,272 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:57:19,280 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:58:34,469 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:58:34,477 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:58:34,479 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:58:34,488 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 06:59:50,368 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:59:50,376 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 06:59:50,378 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 06:59:50,386 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:00:05,420 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:00:05,435 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:00:05,445 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:00:05,479 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:03:17,459 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:03:17,466 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:03:17,469 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:03:17,477 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:04:32,836 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:04:32,898 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:04:32,922 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:04:32,945 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:06:19,313 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:06:19,342 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:06:19,344 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:06:19,352 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:06:50,446 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:06:50,465 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:06:50,467 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:06:50,493 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:07:05,624 [Worker-97] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-22 07:07:13,407 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:yash_webapp_01:0.0.1-SNAPSHOT @ G:\DTProject\DT\yash_webapp_01\pom.xml.
+2016-10-22 07:07:17,725 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/main/java
+2016-10-22 07:07:17,726 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yash_webapp_01/src/test/java
+2016-10-22 07:07:19,106 [Worker-97] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for yash_webapp_01
+2016-10-22 07:07:19,113 [Worker-97] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 13 sec
+2016-10-22 07:07:22,765 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:07:22,778 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:07:22,787 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:07:22,832 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:07:22,840 [Worker-97] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yash_webapp_01
+2016-10-22 07:07:22,840 [Worker-97] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yash_webapp_01
+2016-10-22 07:07:22,847 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:07:44,233 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:07:44,246 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:07:44,256 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:07:44,277 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:10:59,947 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:10:59,957 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:10:59,959 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:10:59,970 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:11:25,219 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:11:25,230 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:11:25,241 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:11:25,256 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:13:24,665 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:13:24,685 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:13:24,687 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:13:24,697 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:14:17,174 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:14:17,183 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:14:17,184 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:14:17,192 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:14:58,757 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:14:58,765 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:14:58,766 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:14:58,774 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:15:05,671 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:15:05,696 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:15:05,699 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:15:05,723 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:15:23,172 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:15:23,182 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:15:23,185 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:15:23,193 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:16:34,783 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:16:34,800 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:16:34,821 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:16:34,890 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:17:11,601 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:17:11,610 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:17:11,612 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:17:11,619 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:17:34,482 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:17:34,498 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:17:34,499 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:17:34,507 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:18:08,435 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:18:08,443 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:18:08,453 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:18:08,466 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:18:19,118 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:18:19,127 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:18:19,128 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:18:19,137 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources
+2016-10-22 07:18:32,987 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:18:32,995 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\main\resources
+2016-10-22 07:18:32,997 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-22 07:18:33,012 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\DTProject\DT\yash_webapp_01\src\test\resources

@@ -20,10 +20,10 @@ public class PageController {
 		return mvc;
 	}
 
-	@RequestMapping(value = { "/home", })
-	public ModelAndView gotohome() {
+	@RequestMapping(value = { "/admin", })
+	public ModelAndView gotoadmin() {
 		ModelAndView mvc = new ModelAndView();
-		mvc.setViewName("home");
+		mvc.setViewName("admin");
 		return mvc;
 	}
 
@@ -38,6 +38,24 @@ public class PageController {
 	public ModelAndView gotoProduct() {
 		ModelAndView mvc = new ModelAndView();
 		mvc.setViewName("Product");
+		return mvc;
+	}
+	@RequestMapping(value = { "/about", })
+	public ModelAndView gotoabout() {
+		ModelAndView mvc = new ModelAndView();
+		mvc.setViewName("about");
+		return mvc;
+		}
+	@RequestMapping(value = { "/contact", })
+	public ModelAndView gotocontact() {
+		ModelAndView mvc = new ModelAndView();
+		mvc.setViewName("contact");
+		return mvc;
+	}
+	@RequestMapping(value = { "/loginadmin", })
+	public ModelAndView gotologinadmin() {
+		ModelAndView mvc = new ModelAndView();
+		mvc.setViewName("loginadmin");
 		return mvc;
 	}
 
