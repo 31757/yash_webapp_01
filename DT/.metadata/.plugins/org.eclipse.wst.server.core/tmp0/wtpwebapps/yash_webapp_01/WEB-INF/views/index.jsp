@@ -31,6 +31,10 @@
   
 <title>Happy World</title>
 <style type="text/css">
+#footer{background:#336; padding-top:30px; padding-bottom:30px; text-align:center; border-top:solid 4px #303}
+#footer p{padding:10px; color:#fff}
+.dont-remove{color:#fff !important; text-decoration:none !important; font-weight:700}
+.rights{display:inline-block; border-top:solid 1px rgba(103, 58, 183, 0.3)}
 body {
 	background-image: url('http://crunchify.com/bg.png');
 }

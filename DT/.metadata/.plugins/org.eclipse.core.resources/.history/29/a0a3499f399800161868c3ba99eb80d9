@@ -1,0 +1,51 @@
+package ecommerce.yash_webapp_01.dao;
+
+import java.util.List;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class ProductDaoImpl implements ProductDao {
+@Autowired
+private SessionFactory session;
+	
+	@Override
+	public List<ProductDao> getAllProduct() {
+		// TODO Auto-generated method stub
+		return session.getCurrentSession().createQuery("from Product").list();
+	}
+
+	@Override
+	public void insertProduct(ProductDao p) {
+		// TODO Auto-generated method stub
+		session.getCurrentSession().persist(p);		
+	}
+
+	@Override
+	public void deleteProductById(int productId) {
+		// TODO Auto-generated method stub
+		session.getCurrentSession().delete(getProductById(productId));
+	}
+
+	@Override
+	public void updateProduct(ProductDao product) {
+		// TODO Auto-generated method stub
+		session.getCurrentSession().update(product);	
+	}
+
+	@Override
+	public ProductDao getProductById(int productId) {
+		// TODO Auto-generated method stub
+		ProductDao p = session.getCurrentSession().get(ProductDao.class, new Integer(productId));
+		return p;
+	}
+
+	@Override
+	public ProductDao getProductByPrice(int productPrice) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
+
+

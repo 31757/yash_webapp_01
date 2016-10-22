@@ -1,0 +1,43 @@
+package ecommerce.yash_webapp_01.dao;
+
+import java.util.List;
+
+public class ProductDaoImpl implements ProductDao {
+
+	@Override
+	public List<ProductDao> getAllProduct() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void insertProduct(ProductDao p) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void deleteProductById(int productId) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void updateProduct(ProductDao product) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public ProductDao getProductById(int productId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ProductDao getProductByPrice(int productPrice) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

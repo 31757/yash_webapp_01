@@ -1,0 +1,18 @@
+package ecommerce.yash_webapp_01.dao;
+
+import ecommerce.yash_webapp_01.model.UserModel;
+
+import java.util.List;
+
+public interface UserDAO {
+
+	public List<UserModel> getalluser();
+	void insertuser(UserModel  p);
+	UserModel getuser(int pid);
+	void updateuser(UserModel p);
+	public void deleteuser(int pid);
+	
+}
+
+
+

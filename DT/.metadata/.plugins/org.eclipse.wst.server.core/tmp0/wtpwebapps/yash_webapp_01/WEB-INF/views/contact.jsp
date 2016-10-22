@@ -28,6 +28,10 @@
     .contact-form {
     margin-top:70px;
 }
+#footer{background:#336; padding-top:30px; padding-bottom:30px; text-align:center; border-top:solid 4px #303}
+#footer p{padding:10px; color:#fff}
+.dont-remove{color:#fff !important; text-decoration:none !important; font-weight:700}
+.rights{display:inline-block; border-top:solid 1px rgba(103, 58, 183, 0.3)}
     </style>
     <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
@@ -98,6 +102,9 @@
 	<script type="text/javascript">
 	
 	</script>
+	<div class="form-group">
+    &nbsp;
+</div>
 	
 	<jsp:include page="footer.jsp"/>
 	

@@ -33,6 +33,10 @@
 body {
 	background-image: url('http://crunchify.com/bg.png');
 }
+#footer{background:#336; padding-top:30px; padding-bottom:30px; text-align:center; border-top:solid 4px #303}
+#footer p{padding:10px; color:#fff}
+.dont-remove{color:#fff !important; text-decoration:none !important; font-weight:700}
+.rights{display:inline-block; border-top:solid 1px rgba(103, 58, 183, 0.3)}
 </style>
 </head>
 <body>
@@ -53,15 +57,15 @@ body {
       <li data-target="#myCarousel" data-slide-to="5"></li>
       <li data-target="#myCarousel" data-slide-to="6"></li>
       <li data-target="#myCarousel" data-slide-to="7"></li>
-       <li data-target="#myCarousel" data-slide-to="8"></li>
-      <li data-target="#myCarousel" data-slide-to="9"></li>
-      <li data-target="#myCarousel" data-slide-to="10"></li>
-      <li data-target="#myCarousel" data-slide-to="11"></li>
+      
     </ol>
+    <div class="form-group">
+    &nbsp;
+</div>
 
   <div class="row">
             <div class="col-lg-12">
-                <h3>Latest Features</h3>
+                <h3 align="center">Check out our Categories</h3>
             </div>
         </div>
         <!-- /.row -->
@@ -71,7 +75,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="500" height="500">
+                    <img src="./resources/img/laptop.jpg"  width="500" height="500">
                     <div class="caption">
                         <h3>Laptops</h3>
                         <p>A grand variety of laptops at each and every price variations for everyone to buy</p>
@@ -84,7 +88,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/img/tv.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>TV</h3>
                         <p>A different collection of TV and Hometheatres for the evrey types of people at best price</p> 
@@ -97,7 +101,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/img/mobile.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>Mobiles</h3>
                         <p>Hot and Cool phones in different styles for the everyone</p>
@@ -110,7 +114,7 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/img/kitchenappliances.jpg"  width="250" height="250">
                     <div class="caption">
                         <h3>Home Appliance</h3>
                         <p>A range of home needs in electronics at a single and a super collection</p>
@@ -130,7 +134,7 @@ body {
     </div>
       <div class="row">
             <div class="col-lg-12">
-                <h3>Latest Features</h3>
+                
             </div>
         </div>
         <!-- /.row -->
@@ -140,10 +144,10 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="500" height="500">
+                    <img src="./resources/img/computer.jpg"  width="500" height="500">
                     <div class="caption">
-                        <h3>Laptops</h3>
-                        <p>A grand variety of laptops at each and every price variations for everyone to buy</p>
+                        <h3>Computer</h3>
+                        <p>Special and unique collection of computers and desktop PCs for the younger ones</p>
                         <p>
                             <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
                         </p>
@@ -153,10 +157,10 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/img/musicplayer.jpg"  width="250" height="250">
                     <div class="caption">
-                        <h3>TV</h3>
-                        <p>A different collection of TV and Hometheatres for the evrey types of people at best price</p> 
+                        <h3>Music Player</h3>
+                        <p>feel the music around you and in every thing with the high quality music players</p> 
                         <p>
                             <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
                         </p>
@@ -166,10 +170,10 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/img/refrigerator.jpg"  width="250" height="250">
                     <div class="caption">
-                        <h3>Mobiles</h3>
-                        <p>Hot and Cool phones in different styles for the everyone</p>
+                        <h3>Refrigerator</h3>
+                        <p>A great range of smart refrigerators of top brand for your special ones</p>
                         <p>
                             <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
                         </p>
@@ -179,10 +183,10 @@ body {
 
             <div class="col-md-3 col-sm-6 hero-feature">
                 <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
+                    <img src="./resources/img/slider-washingmachines.gif"  width="250" height="250">
                     <div class="caption">
-                        <h3>Home Appliance</h3>
-                        <p>A range of home needs in electronics at a single and a super collection</p>
+                        <h3>Washing machines</h3>
+                        <p>High quality machines for the love of your clothes</p>
                         <p>
                             <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
                         </p>
@@ -198,72 +202,7 @@ body {
       
 
     </div>
-      <div class="row">
-            <div class="col-lg-12">
-                <h3>Latest Features</h3>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <!-- Page Features -->
-        <div class="row text-center">
-
-            <div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="500" height="500">
-                    <div class="caption">
-                        <h3>Laptops</h3>
-                        <p>A grand variety of laptops at each and every price variations for everyone to buy</p>
-                        <p>
-                            <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
-                    <div class="caption">
-                        <h3>TV</h3>
-                        <p>A different collection of TV and Hometheatres for the evrey types of people at best price</p> 
-                        <p>
-                            <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
-                    <div class="caption">
-                        <h3>Mobiles</h3>
-                        <p>Hot and Cool phones in different styles for the everyone</p>
-                        <p>
-                            <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img src="./resources/images/Koala.jpg"  width="250" height="250">
-                    <div class="caption">
-                        <h3>Home Appliance</h3>
-                        <p>A range of home needs in electronics at a single and a super collection</p>
-                        <p>
-                            <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-        <!-- /.row -->
-
-        <hr>
+              <hr>
 
         <!-- Footer -->
         <footer>

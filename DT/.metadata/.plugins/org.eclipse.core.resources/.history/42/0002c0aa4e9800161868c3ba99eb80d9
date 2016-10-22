@@ -1,0 +1,61 @@
+package ecommerce.yash_webapp_01.dao;
+
+import java.util.List;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
+
+import ecommerce.yash_webapp_01.model.ProductModel;
+@Transactional
+public class ProductDaoImpl implements ProductDao {
+@Autowired
+private SessionFactory session;
+	
+	@SuppressWarnings("unchecked")
+	@Override
+	public List<ProductModel> getAllProduct() {
+		// TODO Auto-generated method stub
+		return session.getCurrentSession().createQuery("from ProductModel").list();
+	}
+
+	@Override
+	public void insertProduct(ProductModel p) {
+		// TODO Auto-generated method stub
+		session.getCurrentSession().persist(p);		
+	}
+
+	@Override
+	public void deleteProductById(int prodid) {
+		// TODO Auto-generated method stub
+		session.getCurrentSession().delete(getProductById(prodid));
+	}
+
+	@Override
+	public void updateProduct(ProductModel product) {
+		// TODO Auto-generated method stub
+		session.getCurrentSession().update(product);	
+	}
+
+	@Override
+	public ProductModel getProductById(int prodid) {
+		// TODO Auto-generated method stub
+		ProductModel p = session.getCurrentSession().get(ProductModel.class, new Integer(prodid));
+		/* Product p = (Product) session1.load(Product.class, new Integer(id)); */
+
+		return p;
+	}
+
+	@Override
+	public ProductModel getProductByPrice(int productPrice) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ProductModel getProductByBand(int productPrice) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,11 @@
+package ecommerce.yash_webapp_01.dao;
+
+public class ProductDaoImpl implements ProductDao {
+
+	@Override
+	public void deleteProductById(int productId) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

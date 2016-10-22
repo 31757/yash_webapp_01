@@ -1,0 +1,77 @@
+  <div class="row">
+            <div class="col-lg-12">
+                <h3>Latest Features</h3>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Page Features -->
+        <div class="row text-center">
+
+            <div class="col-md-3 col-sm-6 hero-feature">
+                <div class="thumbnail">
+                    <img src=".webapp/WEB-INF/resources/images/Koala.jpg"  width="500" height="500">
+                    <div class="caption">
+                        <h3>Laptops</h3>
+                        <p>A grand variety of laptops at each and every price variations for everyone to buy</p>
+                        <p>
+                            <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6 hero-feature">
+                <div class="thumbnail">
+                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <div class="caption">
+                        <h3>TV</h3>
+                        <p>A different collection of TV and Hometheatres for the evrey types of people at best price</p> 
+                        <p>
+                            <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6 hero-feature">
+                <div class="thumbnail">
+                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <div class="caption">
+                        <h3>Mobiles</h3>
+                        <p>Hot and Cool phones in different styles for the everyone</p>
+                        <p>
+                            <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6 hero-feature">
+                <div class="thumbnail">
+                    <img src="webapp/WEB-INF/resources/images/Koala.jpg"  width="250" height="250">
+                    <div class="caption">
+                        <h3>Home Appliance</h3>
+                        <p>A range of home needs in electronics at a single and a super collection</p>
+                        <p>
+                            <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Your Website 2014</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>

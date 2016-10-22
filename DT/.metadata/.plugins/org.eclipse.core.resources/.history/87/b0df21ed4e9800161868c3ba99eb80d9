@@ -1,0 +1,9 @@
+package ecommerce.yash_webapp_01.model;
+
+import java.util.List;
+
+
+
+public class SupplierModel {
+	
+}

@@ -1,0 +1,17 @@
+package ecommerce.yash_webapp_01.dao;
+
+import java.util.List;
+
+import ecommerce.yash_webapp_01.model.ProductModel;
+
+public interface ProductDao {
+
+	public List<ProductModel> getAllProduct();
+	public void insertProduct(ProductModel p);
+	public void deleteProductById(int productId);
+	void updateProduct(ProductModel product);
+	public ProductModel getProductById(int productId);
+	public ProductModel getProductByPrice(int productPrice);
+	public ProductModel getProductByBand(int productPrice);
+	
+}
