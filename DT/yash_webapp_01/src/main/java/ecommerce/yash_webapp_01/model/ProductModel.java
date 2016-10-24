@@ -1,44 +1,51 @@
 package ecommerce.yash_webapp_01.model;
+
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.Table;
 import javax.persistence.Transient;
-import javax.validation.constraints.NotNull;
 
-
-import org.hibernate.validator.constraints.NotEmpty;
 import org.springframework.web.multipart.MultipartFile;
 
 @Entity
+
+@Table(name="Products")
+
 public class ProductModel {
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	int pid;
+
+@Column	
 	String pcat;
-		@NotNull @NotEmpty
-		String pbrand;
-		@NotNull @NotEmpty
+@Column
+	String pbrand;
+@Column
 	String pmodel;
-		@NotNull @NotEmpty
+@Column
 	String pos;
-		@NotNull @NotEmpty
+@Column
 	String pversion;
-		@NotNull @NotEmpty
+@Column
 	String purl;
-		@NotNull @NotEmpty
+@Column
 	int pprice;
+
 	@Transient
-	MultipartFile file;
-	
+	MultipartFile File;
+
 	public MultipartFile getFile() {
-		return file;
+		return File;
 	}
 
 	public void setFile(MultipartFile file) {
-		this.file = file;
+		this.File = file;
 	}
-
+	
+	
 	public int getPid() {
 		return pid;
 	}
@@ -87,7 +94,6 @@ public class ProductModel {
 		this.pversion = pversion;
 	}
 
-
 	public String getPurl() {
 		return purl;
 	}
@@ -106,8 +112,7 @@ public class ProductModel {
 
 	@Override
 	public String toString() {
-		return "ProductModel [pid=" + pid + ", pcat=" + pcat + ",pbrand=" + pbrand + ",pmodel=" + pmodel + ",pos=" + pos + ",pversion=" + pversion + ", purl=" + purl + ",pprice="
-				+ pprice + "]";
+		return "ProductModel [pid=" + pid + ", pcat=" + pcat + ",pbrand=" + pbrand + ",pmodel=" + pmodel + ",pos=" + pos
+				+ ",pversion=" + pversion + ", purl=" + purl + ",pprice=" + pprice + "]";
 	}
 }
-

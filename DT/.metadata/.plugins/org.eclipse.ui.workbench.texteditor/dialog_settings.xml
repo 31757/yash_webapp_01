@@ -8,6 +8,7 @@
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="null"/>
 			<item value="main"/>
 			<item value="id"/>
 			<item value="Product"/>
@@ -15,7 +16,6 @@
 			<item value="Registration"/>
 			<item value="p"/>
 			<item value="adminController"/>
-			<item value="admin"/>
 		</list>
 		<list key="replacehistory">
 			<item value="sub"/>

@@ -1,0 +1,29 @@
+package ecommerce.yash_webapp_01.model;
+
+@Entity
+public class Category {
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private int id;
+	private String cname;
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getCname() {
+		return cname;
+	}
+	public void setCname(String cname) {
+		this.cname = cname;
+	}
+	@Override
+	public String toString() {
+		return "Category [id=" + id + ", cname=" + cname + "]";
+	}
+
+
+	}
+
+}

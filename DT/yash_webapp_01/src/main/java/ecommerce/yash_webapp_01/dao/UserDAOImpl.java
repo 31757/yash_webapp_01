@@ -1,46 +1,29 @@
 package ecommerce.yash_webapp_01.dao;
 
-import java.util.List;
-
-import ecommerce.yash_webapp_01.model.UserModel;
-
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
+
+import ecommerce.yash_webapp_01.model.User;
 
 @Transactional
 public class UserDAOImpl implements UserDAO {
 
 	@Autowired
-	private SessionFactory sessionFactory;
-	
-	@Override
-	public List<UserModel> getalluser() {
-		// TODO Auto-generated method stub
-		return sessionFactory.getCurrentSession().createQuery("from UserModel").list();
-	}
+	private SessionFactory session;
 
 	@Override
-	public void insertuser(UserModel u) {
-		sessionFactory.getCurrentSession().persist(u);
+	public void insertUser(User user) {
+		session.getCurrentSession().persist(user);
 
 	}
 
 	@Override
-	public UserModel getuser(int userid) {
-		return sessionFactory.getCurrentSession().get(UserModel.class, userid);
-	}
+	public User getUserDetails(String userid) {
 
-	@Override
-	public void updateuser(UserModel u) {
-		// TODO Auto-generated method stub
-		sessionFactory.getCurrentSession().update(u);
-	}
+		User user = session.getCurrentSession().get(User.class, new String(userid));
+		return user;
 
-	@Override
-	public void deleteuser(int uid) {
-		// TODO Auto-generated method stub
-		sessionFactory.getCurrentSession().remove(getuser(uid));
 	}
 
 }

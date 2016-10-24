@@ -2,68 +2,33 @@ package ecommerce.yash_webapp_01.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.servlet.ModelAndView;
 
-import ecommerce.yash_webapp_01.dao.*;
-import ecommerce.yash_webapp_01.model.*;
-
+import ecommerce.yash_webapp_01.dao.UserDAO;
+import ecommerce.yash_webapp_01.model.User;
 
 @Controller
-@RequestMapping("/user")
-
 public class UserController {
 	@Autowired
-	UserDAO  u;
-	
-	@RequestMapping(value = "/view", method = RequestMethod.GET)
-	public ModelAndView adminProduct()
-	{
-		ModelAndView mv = new ModelAndView("userview");
-		//ProductModel product = new ProductModel();
-		mv.addObject("user", new UserModel());
-		return mv;		
+	UserDAO r ;
+	@RequestMapping(value = "/reg")
+	public String gotreg(Model model){
+		model.addAttribute("user", new User());
+		return "reg";
 	}
-	
-	@RequestMapping("/save")
-	public String editUser(@ModelAttribute("user") UserModel usr)
-	{
-		if (usr.getUserid()==0)
-		{
-			u.insertuser(usr);
-		}
-		else
-		{
-			u.updateuser(usr);
-		}
-		return "redirect:/user/view";
+
+	@PostMapping(value = "yash_webapp_01/index")
+	public String go(@ModelAttribute ("user") User user1,BindingResult bindingResult, Model model){
+		
+		
+		r.insertUser(user1);	
+		
+		return "/reg";
 	}
-		
-		/*
-		@RequestMapping(value = "/view", method = RequestMethod.GET)
-		public ModelAndView dispalldetail()
-		{
-			ModelAndView mv = new ModelAndView("userview");
-			//ProductModel product = new ProductModel();
-			mv.addObject("users", u.getalluser());
-			mv.addObject("user", new UserModel());
-			return mv;		
-		}
-		
-		@RequestMapping(value = "/view/{id}", method = RequestMethod.GET)
-		public ModelAndView getUser(@PathVariable("id") int id) {
-			ModelAndView mv = new ModelAndView("userview");
-	    	mv.addObject("user", u.getuser(id));
-	    	mv.addObject("users", u.getalluser());
-		    return mv;		
-			}
-		
-	@RequestMapping(value = "/delete/{usr}")		 
-		public String deleteProduct(@PathVariable("usr") Integer id) {
-		   	u.deleteuser(id);
-			return "redirect:/user/view";		
-			}
-		*/
 }
+
+

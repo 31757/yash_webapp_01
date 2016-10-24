@@ -7,6 +7,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class MainController {
 	
+	
 	@RequestMapping(value={"/home", "/index","/"})
 	public ModelAndView gotoindex()
 	{
@@ -23,19 +24,26 @@ public class MainController {
  return mvc;
 	}
 	
-	@RequestMapping(value={"/sign"})
-	public ModelAndView gotosign()
+	@RequestMapping(value={"/signin"})
+	public ModelAndView gotosignin()
 	{
  ModelAndView mvc=new ModelAndView();
- mvc.setViewName("sign");
+ mvc.setViewName("signin");
+ return mvc;
+	}
+	@RequestMapping(value={"/cart"})
+	public ModelAndView gotocart()
+	{
+ ModelAndView mvc=new ModelAndView();
+ mvc.setViewName("cart");
  return mvc;
 	}
 	
- @RequestMapping(value={"/log"})
-	public ModelAndView gotolog()
+ @RequestMapping(value={"/login"})
+	public ModelAndView gotologin()
 	{
  ModelAndView mvc=new ModelAndView();
- mvc.setViewName("log");
+ mvc.setViewName("login");
  return mvc;
  
       }
@@ -68,19 +76,19 @@ public class MainController {
 	
       }
 	
-	@RequestMapping(value={"/adminlogin"})
-	public ModelAndView gotoadminlogin()
+	@RequestMapping(value={"/loginadmin"})
+	public ModelAndView gotologinadmin()
 	{
  ModelAndView mvc=new ModelAndView();
- mvc.setViewName("adminlogin");
+ mvc.setViewName("loginadmin");
  return mvc;
 	} 
 	
-	@RequestMapping(value={"/admin/view"})
-	public ModelAndView gotoadmin()
+	@RequestMapping(value={"/pro/view"})
+	public ModelAndView gotopro()
 	{
  ModelAndView mvc=new ModelAndView();
- mvc.setViewName("admin");
+ mvc.setViewName("pro");
  return mvc;
 	} 
 	
@@ -98,6 +106,7 @@ public class MainController {
  mvc.setViewName("viewform");
  return mvc;
 	} 
+	
 }
 
 

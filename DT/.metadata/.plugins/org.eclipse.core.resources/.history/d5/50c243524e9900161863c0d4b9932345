@@ -1,0 +1,19 @@
+package ecommerce.yash_webapp_01.controller;
+
+public class CategoryController {
+	public class CategoryController {
+		
+		@Autowired
+		CategoryDAO cDAO;
+		
+		@RequestMapping(value = "/categ")
+		public ModelAndView adminview() {
+			ModelAndView mv = new ModelAndView("adminview");
+			mv.addObject("categ", new Category());
+			mv.addObject("categs", cDAO.getAll());
+			return mv;
+		}
+
+	}
+
+}

@@ -1,0 +1,27 @@
+package ecommerce.yash_webapp_01.dao;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
+
+import ecommerce.yash_webapp_01.model.User;
+
+@Transactional
+public class UserDAOImpl implements UserDAO {
+
+	@Autowired
+	private SessionFactory session;
+	
+	@Override
+	public void insertUser(User user) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public User getUserDetails(String email) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

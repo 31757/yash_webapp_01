@@ -1,0 +1,25 @@
+package ecommerce.yash_webapp_01.dao;
+
+import java.util.List;
+
+import ecommerce.yash_webapp_01.model.Category;
+
+public class CategoryDAOImpl implements CategoryDAO {
+
+	@Autowired
+	private SessionFactory sessionFactory;
+	
+	
+	@Override
+	public List<Category> getAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Category getCategory(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
