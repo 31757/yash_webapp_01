@@ -7,9 +7,9 @@
 </style>
 <footer id="footer">
 <div class="container">
-        <p class="social"><a href=""><i class="fa fa-facebook"></i></a> <a href=""><i class="fa fa-twitter"></i></a> <a href=""><i class="fa fa-linkedin"></i></a> <a href=""><i class="fa fa-google-plus"></i></a></p>
+        <p class="social"><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a> <a href="https://in.linkedin.com/hp/"><i class="fa fa-linkedin"></i></a> <a href="https://plus.google.com/"><i class="fa fa-google-plus"></i></a></p>
 
-<p class="rights">Copyright @2016 Your Company Name. Designed By <!-- dont remove link --><a class="dont-remove" href="http://webdeveloperbareilly.in" target="_blank">Web Developer Bareilly</a></p>
+<p class="rights">Copyright @2016 VanuShopping. Designed By VanuEnterprises <!-- dont remove link --><a class="dont-remove" href="http://webdeveloperbareilly.in" target="_blank"></a></p>
 
 
 </div>

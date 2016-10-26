@@ -7,7 +7,10 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.persistence.Transient;
+import javax.validation.constraints.NotNull;
 
+import org.hibernate.validator.constraints.NotBlank;
+import org.hibernate.validator.constraints.NotEmpty;
 import org.springframework.web.multipart.MultipartFile;
 
 @Entity
@@ -19,19 +22,22 @@ public class ProductModel {
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	int pid;
 
-@Column	
+@Column 
 	String pcat;
-@Column
+@Column  
 	String pbrand;
-@Column
+@Column  
 	String pmodel;
+@Column  
+	String pdesc;
 @Column
-	String pos;
-@Column
+private int productQuantity;
+
+@Column  
 	String pversion;
-@Column
+@Column  
 	String purl;
-@Column
+@Column  
 	int pprice;
 
 	@Transient
@@ -78,14 +84,7 @@ public class ProductModel {
 		this.pmodel = pmodel;
 	}
 
-	public String getPos() {
-		return pos;
-	}
-
-	public void setPos(String pos) {
-		this.pos = pos;
-	}
-
+	
 	public String getPversion() {
 		return pversion;
 	}
@@ -101,7 +100,13 @@ public class ProductModel {
 	public void setPurl(String purl) {
 		this.purl = purl;
 	}
+	public String getPdesc() {
+		return pdesc;
+	}
 
+	public void setPdesc(String pdesc) {
+		this.pdesc = pdesc;
+	}
 	public int getPprice() {
 		return pprice;
 	}
@@ -112,7 +117,7 @@ public class ProductModel {
 
 	@Override
 	public String toString() {
-		return "ProductModel [pid=" + pid + ", pcat=" + pcat + ",pbrand=" + pbrand + ",pmodel=" + pmodel + ",pos=" + pos
+		return "ProductModel [pid=" + pid + ", pcat=" + pcat + ",pbrand=" + pbrand + ",pmodel=" + pmodel + ",pdesc=" + pdesc
 				+ ",pversion=" + pversion + ", purl=" + purl + ",pprice=" + pprice + "]";
 	}
 }

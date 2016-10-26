@@ -1,6 +1,9 @@
 package ecommerce.yash_webapp_01.controller;
 import org.springframework.stereotype.Controller;
+import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
 
@@ -24,13 +27,7 @@ public class MainController {
  return mvc;
 	}
 	
-	@RequestMapping(value={"/signin"})
-	public ModelAndView gotosignin()
-	{
- ModelAndView mvc=new ModelAndView();
- mvc.setViewName("signin");
- return mvc;
-	}
+	
 	@RequestMapping(value={"/cart"})
 	public ModelAndView gotocart()
 	{
@@ -56,6 +53,23 @@ public class MainController {
  return mvc;
 	
       }
+	@RequestMapping(value={"/shipping"})
+	public ModelAndView gotoshipping()
+	{
+ ModelAndView mvc=new ModelAndView();
+ mvc.setViewName("shipping");
+ return mvc;
+	
+      }
+	@RequestMapping(value={"/billing"})
+	public ModelAndView gotobilling()
+	{
+ ModelAndView mvc=new ModelAndView();
+ mvc.setViewName("billing");
+ return mvc;
+	
+      }
+	
 
 	@RequestMapping(value={"/Product"})
 	public ModelAndView gotoProduct()

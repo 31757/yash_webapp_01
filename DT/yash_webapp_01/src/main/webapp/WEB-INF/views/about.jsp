@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Bootstrap About Us Page Design</title>
+<title>VanuShopping-About Us</title>
 <meta name="description" content="A customized about us page design using bootstrap framework, HTML and CSS. If you need to use this attractive and responsive bootstrap about us page design go back to article and click download button to download it.">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -60,9 +60,10 @@ header .wel{position: relative;text-align: center;padding: 100px 15px 100px;widt
 <div class="wel">
 <div class="wel-info">
 
-<h1>Bootstrap About Us Page Design</h1>
+<h1>Welcome to Vanu Shopping.....!</h1>
 <span class="brk"></span>
-<p>A customized about us page design using bootstrap framework, HTML and CSS. If you need to use this attractive and responsive bootstrap about us page design go back to article and click download button to download it.</p>
+<p>A customised website or e-commerce portal for everyone where they can can get everything they need in a single place. This site is also a lots of gain for the men,you dont have to wait at the shop for hours and you dont have to pay a lot for your favourite appliances, here at VanuShopping we provide all types of kitchen and home aplliance and all electronics items  at a low price than from any other website or the local market.</p>
+<p>Each every year the portal will launch new things and new varieties and each festival will bring happiness into you by a lot of discount sale and for now just go shopping</p>
 
 </div>
 </div>
@@ -74,7 +75,8 @@ header .wel{position: relative;text-align: center;padding: 100px 15px 100px;widt
 
 <h2>Who We Are?</h2>
 <span class="brk"></span>
-<p>A customized about us page design using bootstrap framework, HTML and CSS. If you need to use this attractive and responsive bootstrap about us page design go back to article and click download button to download it.</p>
+<p>We are the new trend setters and the new controllers of the e-commerce world launching on 25th October 2016, from the first day we will be working utmost for the satisfaction of out customers.</p>
+
 
 </div>
 </div>

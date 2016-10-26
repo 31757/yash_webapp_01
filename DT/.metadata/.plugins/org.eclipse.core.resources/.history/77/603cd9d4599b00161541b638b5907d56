@@ -1,0 +1,7 @@
+package ecommerce.yash_webapp_01.dao;
+
+public interface CustomerOrderDAO {
+	void addCustomerOrder(CustomerOrder customerOrder);
+
+    double getCustomerOrderGrandTotal(int cartId);
+}

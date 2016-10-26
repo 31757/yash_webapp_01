@@ -1,0 +1,20 @@
+package ecommerce.yash_webapp_01.model;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
+public class CartDetailModel {
+
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	int cartid;
+	String pcat;
+	String pname;
+	int qty;
+	int price;
+	String emailid;
+}

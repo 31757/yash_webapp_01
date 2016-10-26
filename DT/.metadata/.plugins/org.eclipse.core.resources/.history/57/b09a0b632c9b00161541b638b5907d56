@@ -1,0 +1,51 @@
+package ecommerce.yash_webapp_01.dao;
+
+import java.util.List;
+
+import ecommerce.yash_webapp_01.model.Cart;
+
+public class CartServiceImpl implements CartService {
+
+	@Override
+	public Cart getCartById(int cartId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void update(Cart cart) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void add(Cart cart) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(int i) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public List<Cart> getAllItems() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Cart getCartByUsername(String Username) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String checkUsername(String Username) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

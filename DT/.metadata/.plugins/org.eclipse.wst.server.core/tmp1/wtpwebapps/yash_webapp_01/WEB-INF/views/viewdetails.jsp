@@ -21,7 +21,7 @@
 
 <!-- Finish adding tags -->
   
-<title>Happy World</title>
+<title>VanuShopping-Search your product</title>
 <style type="text/css">
 body {
 	background-image: url('http://crunchify.com/bg.png');

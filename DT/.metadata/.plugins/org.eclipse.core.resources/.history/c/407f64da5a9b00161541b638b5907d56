@@ -1,0 +1,32 @@
+package ecommerce.yash_webapp_01.dao;
+
+import ecommerce.yash_webapp_01.model.Cart;
+import ecommerce.yash_webapp_01.model.CartItem;
+
+public class CartItemDaoImpl implements CartItemDao {
+
+	@Override
+	public void addCartItem(CartItem cartItem) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void removeCartItem(CartItem cartItem) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void removeAllCartItems(Cart cart) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public CartItem getCartItemByProductId(int productId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

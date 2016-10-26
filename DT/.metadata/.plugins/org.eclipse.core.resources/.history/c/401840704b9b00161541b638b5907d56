@@ -1,0 +1,24 @@
+package ecommerce.yash_webapp_01.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+import ecommerce.yash_webapp_01.dao.CartDAO;
+import ecommerce.yash_webapp_01.model.Category;
+
+@Controller
+@RequestMapping("/cart")
+public class CartController {
+	@Autowired
+	CartDAO cdao;
+	
+	@RequestMapping(value = "/cart")
+	public ModelAndView adminview() {
+		ModelAndView mv = new ModelAndView();
+		mv.addObject("cart", new Category());
+		mv.addObject("cart", cdao.getAllItems());
+		return mv;
+}
+}

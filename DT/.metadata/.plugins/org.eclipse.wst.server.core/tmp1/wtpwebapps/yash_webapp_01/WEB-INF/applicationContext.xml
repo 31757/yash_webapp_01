@@ -63,5 +63,12 @@ class="org.springframework.orm.hibernate5.HibernateTransactionManager">
 <bean id="u" class="ecommerce.yash_webapp_01.dao.UserDAOImpl" />
 <bean id="r" class="ecommerce.yash_webapp_01.dao.RegistrationDAOImpl" />
 <bean id="cDAO" class="ecommerce.yash_webapp_01.dao.CategoryDAOImpl"/>
+<bean id="cartdet" class="ecommerce.yash_webapp_01.dao.CartDetailDAOImpl"/>
+<bean id="cartitemdao" class="ecommerce.yash_webapp_01.dao.CartItemDaoImpl"/>
+<bean id="cartdao" class="ecommerce.yash_webapp_01.dao.CartDaoImpl"/>
+<bean id="order" class="ecommerce.yash_webapp_01.dao.CustomerOrderDaoImpl"/>
+
+
+
 </beans>
 

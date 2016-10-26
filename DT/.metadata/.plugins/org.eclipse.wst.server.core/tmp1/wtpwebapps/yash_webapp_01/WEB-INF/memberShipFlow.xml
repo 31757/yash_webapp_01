@@ -17,7 +17,7 @@
 		<transition on="failure" to="start" />
 	</action-state> -->
  
-	<view-state id="payment" view="payment" >
+	<view-state id="billing" view="billing" >
 		<transition on="submit" to="home" />
 		<!-- <transition on="submit" to="welcome" /> -->
 	</view-state>

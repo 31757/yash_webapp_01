@@ -2,33 +2,35 @@ package ecommerce.yash_webapp_01.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
-import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
 
-import ecommerce.yash_webapp_01.dao.UserDAO;
-import ecommerce.yash_webapp_01.model.User;
+import ecommerce.yash_webapp_01.dao.*;
+import ecommerce.yash_webapp_01.model.*;
 
 @Controller
+@RequestMapping("/reg")
 public class UserController {
 	@Autowired
-	UserDAO r ;
-	@RequestMapping(value = "/reg")
-	public String gotreg(Model model){
-		model.addAttribute("user", new User());
-		return "reg";
+	UserDAO r;
+
+	@RequestMapping(value = "/new")
+	public ModelAndView usrProduct() {
+		ModelAndView mv = new ModelAndView("signin");
+		mv.addObject("usr", new User());
+		return mv;
 	}
 
-	@PostMapping(value = "yash_webapp_01/index")
-	public String go(@ModelAttribute ("user") User user1,BindingResult bindingResult, Model model){
-		
-		
-		r.insertUser(user1);	
-		
-		return "/reg";
+	@RequestMapping("/save")
+	public String editUser(@ModelAttribute("user") User usr) {
+		if (usr.getUid() == 0) {
+			r.insertUser(usr);
+		} 
+		else {
+		}
+		return ("redirect:/reg/new");
+
 	}
+
 }
-
-

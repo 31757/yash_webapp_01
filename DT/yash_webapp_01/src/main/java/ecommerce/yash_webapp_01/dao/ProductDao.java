@@ -11,4 +11,8 @@ public interface ProductDAO {
 	ProductModel get(int pid);
 	void update(ProductModel p);
 	public void delete(int pid);
+	public ProductModel getProductById(int productId);
+	public ProductModel getProductByPrice(int productPrice);
+	public ProductModel getProductByBand(int productPrice);
+	public List<ProductModel> getProductByCategory(String Category);
 }
